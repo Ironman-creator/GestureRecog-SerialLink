@@ -22,7 +22,7 @@
 # 贡献指南
 欢迎开发者对本项目进行贡献。若您发现任何问题或有新的功能想法，请提交 Issue 进行讨论。如果您想提交代码修改，请遵循以下步骤：
 Fork 本项目仓库。
-创建您的特性分支（git checkout -b feature/your-feature）。
+/n 创建您的特性分支（git checkout -b feature/your-feature）。
 提交您的修改（git commit -am 'Add some feature'）。
 将您的分支推送到您的远程仓库（git push origin feature/your-feature）。
 提交 Pull Request，详细描述您的修改内容与目的。
