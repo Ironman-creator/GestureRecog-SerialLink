@@ -21,11 +21,11 @@
 运行程序：直接执行主程序脚本，程序将启动摄像头，开始手势识别与串口通信流程。在摄像头画面中展示手势，即可看到识别结果标注，同时串口数据将按设定发送。
 # 贡献指南
 欢迎开发者对本项目进行贡献。若您发现任何问题或有新的功能想法，请提交 Issue 进行讨论。如果您想提交代码修改，请遵循以下步骤：
-Fork 本项目仓库。
-\n 创建您的特性分支（git checkout -b feature/your-feature）。
-提交您的修改（git commit -am 'Add some feature'）。
-将您的分支推送到您的远程仓库（git push origin feature/your-feature）。
-提交 Pull Request，详细描述您的修改内容与目的。
+Fork 本项目仓库。  
+创建您的特性分支（git checkout -b feature/your-feature）。  
+提交您的修改（git commit -am 'Add some feature'）。  
+将您的分支推送到您的远程仓库（git push origin feature/your-feature）。  
+提交 Pull Request，详细描述您的修改内容与目的。  
 # 注意事项
 摄像头的拍摄质量与环境光线可能会对手势识别效果产生一定影响，请尽量在光线均匀、充足的环境下使用。
 串口设备的配置参数（如串口号、波特率等）需根据实际连接情况准确设置，否则可能导致通信失败。
